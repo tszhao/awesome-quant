@@ -14,6 +14,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [Haskell](#haskell)
 - [Scala](#scala)
 - [Ruby](#ruby)
+- [Elixir/Erlang](#elixirerlang)
 - [CSharp](#csharp)
 - [Frameworks](#frameworks) - frameworks that support different languages
 - [Reproducing Works](#reproducing-works) - repositories that reproduce books and papers results or implement examples
@@ -62,7 +63,6 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [pybacktest](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
 - [pyalgotrade](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library.
 - [tradingWithPython](https://pypi.org/project/tradingWithPython/) - A collection of functions and classes for Quantitative trading.
-- [pandas_talib](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
 - [pandas-ta](https://github.com/twopirllc/pandas-ta) - An easy to use Python 3 Pandas Extension with 80+Technical Analysis Indicators
 - [ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
 - [algobroker](https://github.com/joequant/algobroker) - This is an execution engine for algo trading.
@@ -76,6 +76,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [zipline-extensions](https://github.com/quantrocket-llc/zipline-extensions) - Zipline extensions and adapters for QuantRocket.
 - [moonshot](https://github.com/quantrocket-llc/moonshot) - Vectorized backtester and trading engine for QuantRocket based on Pandas.
 - [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier and advanced methods.
+- [riskparity.py](https://github.com/dppalomar/riskparity.py) - fast and scalable design of risk parity portfolios with TensorFlow 2.0
 - [mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
 - [pyqstrat](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
 - [NowTrade](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
@@ -83,7 +84,9 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [aat](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
 - [Backtesting.py](https://kernc.github.io/backtesting.py/) - Backtest trading strategies in Python
 - [catalyst](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
-- [zvt](https://github.com/zvtvz/zvt) - write trading algorithm once, run it on all markets
+- [quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
+- [qtpylib](https://github.com/ranaroussi/qtpylib) - QTPyLib, Pythonic Algorithmic Trading <http://qtpylib.io> 
+- [Quantdom](https://github.com/constverum/Quantdom) - Python-based framework for backtesting trading strategies & analyzing financial markets [GUI :neckbeard:]
 
 
 ### Risk Analysis
@@ -149,6 +152,9 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [tiingo](https://github.com/hydrosquall/tiingo-python) - Python interface for daily composite prices/OHLC/Volume + Real-time News Feeds, powered by the Tiingo Data Platform.
 - [IEX](https://github.com/addisonlynch/iexfinance) - Python Interface for retrieving real-time and historical prices and equities data from The Investor's Exchange.
 - [alpaca-trade-api](https://github.com/alpacahq/alpaca-trade-api-python) - Python interface for retrieving real-time and historical prices from Alpaca API as well as trade execution.
+- [metatrader5](https://pypi.org/project/MetaTrader5/) - API Connector to MetaTrader 5 Terminal
+- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! <https://akshare.readthedocs.io>
+- [yahooquery](https://github.com/dpguthrie/yahooquery) - Python interface for retrieving data through unofficial Yahoo Finance API.
 
 ### Excel Integration
 
@@ -299,6 +305,10 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 ## Ruby
 
 - [Jiji](https://github.com/unageanu/jiji2) - Open Source Forex algorithmic trading framework using OANDA REST API.
+-
+## Elixir/Erlang
+
+- [Tai](https://github.com/fremantle-capital/tai) - Open Source composable, real time, market data and trade execution toolkit.
 
 ## Frameworks
 
@@ -322,3 +332,4 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [volatility-trading](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
 - [quant](https://github.com/paulperry/quant) - Quantitative Finance and Algorithmic Trading exhaust; mostly ipython notebooks based on Quantopian, Zipline, or Pandas.
 - [fecon235](https://github.com/rsvp/fecon235) - Open source project for software tools in financial economics. Many jupyter notebook to verify theoretical ideas and practical methods interactively.
+- [Quantitative-Notebooks](https://github.com/LongOnly/Quantitative-Notebooks) - Educational notebooks on quantitative finance, algorithmic trading, financial modelling and investment strategy
