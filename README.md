@@ -87,6 +87,10 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [qtpylib](https://github.com/ranaroussi/qtpylib) - QTPyLib, Pythonic Algorithmic Trading <http://qtpylib.io> 
 - [Quantdom](https://github.com/constverum/Quantdom) - Python-based framework for backtesting trading strategies & analyzing financial markets [GUI :neckbeard:]
+- [vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
+- [pytrader](https://github.com/owocki/pytrader) - cryptocurrency trading robot
+- [High-Frequency-Trading-Model-with-IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python
+- [easytrader](https://github.com/shidenggui/easytrader) - 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
 
 
 ### Risk Analysis
@@ -286,6 +290,8 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [finmath.net](http://finmath.net) - Java library with algorithms and methodologies related to mathematical finance.
 - [quantcomponents](https://github.com/lsgro/quantcomponents) - Free Java components for Quantitative Finance and Algorithmic Trading.
 - [DRIP](https://lakshmidrip.github.io/DRIP) - Fixed Income, Asset Allocation, Transaction Cost Analysis, XVA Metrics Libraries.
+- [xchange](https://github.com/knowm/XChange) - XChange is a Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data. 
+- [bateman](https://github.com/fearofcode/bateman) - (ABANDONED) Simple stock trading system that optimizes its parameters with particle swarm optimization
 
 ## JavaScript
 
@@ -333,3 +339,9 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [quant](https://github.com/paulperry/quant) - Quantitative Finance and Algorithmic Trading exhaust; mostly ipython notebooks based on Quantopian, Zipline, or Pandas.
 - [fecon235](https://github.com/rsvp/fecon235) - Open source project for software tools in financial economics. Many jupyter notebook to verify theoretical ideas and practical methods interactively.
 - [Quantitative-Notebooks](https://github.com/LongOnly/Quantitative-Notebooks) - Educational notebooks on quantitative finance, algorithmic trading, financial modelling and investment strategy
+
+## Node.js
+- [gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node
+
+## C++
+- [kungfu](https://github.com/taurusai/kungfu) - Kungfu Trader
